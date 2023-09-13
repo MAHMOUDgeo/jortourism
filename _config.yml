@@ -1,0 +1,44 @@
+title: Tourism in Jordan
+description: Fully guided joyful journeys with maximum safety standards
+url: https://www.jortourism.com
+baseurl: "" # Leave this empty unless your site is hosted in a subdirectory
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-commonmark-ghpages
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Exclude files/folders from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Navigation menu
+header_pages:
+  - about.md
+  - contact.md
+  - blog/index.html
+
+# Pagination
+paginate: 5
+
+# Date format
+date_format: "%B %d, %Y"
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
