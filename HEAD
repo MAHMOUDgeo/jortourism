@@ -1,1 +1,15 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e root <root@kali.kali> 1694581501 -0400	commit (initial): Initial commit
+90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e 0000000000000000000000000000000000000000 root <root@kali.kali> 1694582009 -0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e root <root@kali.kali> 1694582009 -0400	Branch: renamed refs/heads/master to refs/heads/main
+90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e 0000000000000000000000000000000000000000 root <root@kali.kali> 1694582063 -0400	Branch: renamed refs/heads/main to refs/heads/main
+90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e 90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e root <root@kali.kali> 1694582063 -0400	Branch: renamed refs/heads/main to refs/heads/main
+90cb0f961e595c3c0fd6e5c77be7941e3ae65f4e ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e root <root@kali.kali> 1694586319 -0400	commit: first commit
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e 0000000000000000000000000000000000000000 root <root@kali.kali> 1694586319 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e root <root@kali.kali> 1694586319 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e 0000000000000000000000000000000000000000 root <root@kali.kali> 1694586356 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e root <root@kali.kali> 1694586356 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e 0000000000000000000000000000000000000000 root <root@kali.kali> 1694586625 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e root <root@kali.kali> 1694586625 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ac9da864fe4a937a5deb51c88bbfcd7e6fd9e89e 624c8b4eba1388380699f7be6cf5797edaea6f9c root <root@kali.kali> 1694586699 -0400	commit: first commit
+624c8b4eba1388380699f7be6cf5797edaea6f9c 0000000000000000000000000000000000000000 root <root@kali.kali> 1694586699 -0400	Branch: renamed refs/heads/main to refs/heads/main
+624c8b4eba1388380699f7be6cf5797edaea6f9c 624c8b4eba1388380699f7be6cf5797edaea6f9c root <root@kali.kali> 1694586699 -0400	Branch: renamed refs/heads/main to refs/heads/main
